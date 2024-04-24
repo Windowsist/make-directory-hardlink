@@ -11,4 +11,4 @@ mkhdlnk.cmd source destination
          source: an existing directory to make hardlink
     destination: new directory contains same content as souurces directory
 
-mkhdlnk.cmd is administrator version, this version can preserve NTFS/ReFS file audit settings. usage is same as mkhdlnk.cmd
+mkhdlnka.cmd is administrator version, this version can preserve NTFS/ReFS file audit settings. usage is same as mkhdlnk.cmd
